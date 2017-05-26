@@ -1,0 +1,20 @@
+Good day, {name}
+
+We are looking for developers like you! We offer a great work environment, interesting projects and benefits above the law.
+
+You can check out our company at our links below:
+
+<a href="#">Our site</a>
+<a href="#">Meet the team</a>
+
+We have a {position} position and we think you could be a good match for the company, in order to be in our database, please send me your updated resume and fill in the box below:
+
+Full name:
+Phone number:
+Email:
+Skype ID:
+Net current income (MX):
+Net salary expectations (MX):
+
+
+<b>Please be aware that you will only be contacted if your profile matches one of our open positions.</b>
