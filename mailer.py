@@ -23,3 +23,4 @@ for index, item in enumerate(sheet):
 
 sheet.save_as("database.xlsx")
 print "Success!"
+raw_input("Press enter to continue...")
