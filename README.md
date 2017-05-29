@@ -1,4 +1,4 @@
-# SMTP KRomailer
+# SMTP Kromailer
 Simple Mailer from template and using Excel as "database".
 
 ## But whyyy?
